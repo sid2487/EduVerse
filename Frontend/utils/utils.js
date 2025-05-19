@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://eduverse-nvi2.onrender.com";
+export const BACKEND_URL = "https://eduverse-nvi2.onrender.com/api/v1";
