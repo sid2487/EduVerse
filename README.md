@@ -26,7 +26,7 @@ A full-stack MERN application for buying and selling courses with secure authent
 - Order and transaction history
 
 ## ⚙️ Tech Stack
-- Frontend: React.js, Axios, React Router
+- Frontend: React.js, Axios, React Router, Tailwind
 - Backend: Node.js, Express.js, MongoDB
 - Authentication: JWT, bcrypt
 - File Upload: Multer + Cloudinary
